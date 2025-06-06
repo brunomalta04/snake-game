@@ -19,7 +19,6 @@ Este é um jogo da cobrinha (Snake Game) controlado via **Bluetooth** com visual
 - Biblioteca Adafruit NeoPixel
 - Comunicação BluetoothSerial
 - Firebase Realtime Database (via HTTP)
-- Simulador Wokwi
 
 ## 👥 Equipe
 
